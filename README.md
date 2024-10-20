@@ -1,16 +1,15 @@
 ## Hi there 👋
+I am Krishna Sathyamurthy, a software developer NE region.
 
-<!--
-**krshsl/krshsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+- I'm pursuing my master's at Rutgers University, focusing on general CS.
+- Actively looking for full-time and part-time SDE opportunities.
+- I'm currently learning 11ty (personal portfolio under construction)
+- Reach out to me on [LinkedIn](https://www.linkedin.com/in/krshsl/)
+<!-- - Check out my [resume]() -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krshsl&show_icons=true&theme=radical)
+
+<!-- add tools here... -->
