@@ -5,7 +5,6 @@ I am Krishna Sathyamurthy, a software developer NE region.
 ## About me
 - I'm pursuing my master's at Rutgers University, focusing on general CS.
 - Actively looking for full-time and part-time SDE opportunities.
-- I'm currently learning 11ty (personal portfolio under construction)
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/krshsl/)
 <!-- - Check out my [resume]() -->
 
