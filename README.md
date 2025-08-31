@@ -6,7 +6,7 @@ I’m Krishna Sathyamurthy, a software developer based in the Northeastern US.
 - 4+ years of professional experience at Zoho Corporation, building backend systems, improving performance, and leading ownership-driven projects
 - Actively seeking **full-time Software Development Engineer roles starting Spring 2026**
 - Passionate about designing efficient, scalable systems and simplifying complex problems
-- Reach out to me on [LinkedIn](https://www.linkedin.com/in/krshsl/) or explore my work on [GitHub](https://github.com/krshsl)
+- Reach out to me on [LinkedIn](https://www.linkedin.com/in/krshsl/) or explore my work on [GitHub](https://github.com/krshsl?tab=repositories)
 
 ## Skills & Tools
 **Languages:** C/C++, Java, Python, JavaScript, SQL, NoSQL  
