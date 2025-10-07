@@ -9,10 +9,10 @@ I’m Krishna Sathyamurthy, a software developer based in the US.
 - Reach out to me on [LinkedIn](https://www.linkedin.com/in/krshsl/) or explore my work on [GitHub](https://github.com/krshsl?tab=repositories)
 
 ## Skills & Tools
-**Languages:** C/C++, Java, Python, JavaScript, Typescript, Rust, SQL (PostgreSQL, MySQL), NoSQL (MongoDB)  
+**Languages:** C/C++, Java, Python, JavaScript, Typescript, Rust, Go, SQL (PostgreSQL, MySQL), NoSQL (MongoDB)  
 **Web & Frontend:** React.js, AngularJS, Ember.js, HTML, CSS, REST APIs, GraphQL  
 **Cloud & Systems:** Docker, Kubernetes, Bash, Performance Tuning, AWS (EC2, Cognito, Lambda, S3)  
-**AI & Data:** Machine Learning, LLM Fine-tuning, Vector Search, Rag  
+**AI & Data:** Machine Learning, LLM Fine-tuning, Vector Search, RAG  
 **Other:** Git, Mercurial, Agile Practices, System Design  
 
 ## My GitHub Stats
