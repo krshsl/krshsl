@@ -158,7 +158,7 @@ Linux Kernel Development • Multithreading • RPC (Linux SSH, Windows APIs) �
 | Project | Description | Tech Stack | Links |
 |:--------|:------------|:-----------|:------|
 | **Smart Doc Finder** | Cloud storage with AI-powered semantic search using Redis vector search and MongoDB. Deployed on AWS EC2 with FastAPI backend | Redis, MongoDB, FastAPI, React, AWS, Docker | [Live](https://smart-doc-finder.vercel.app/login) • [Code](https://github.com/krshsl/smart-doc-finder) • [Blog](https://dev.to/pujasridhar/what-if-your-cloud-storage-had-wings-2j4h) |
-| **Pokédex Portfolio** | Personal portfolio styled as a Pokédex with trainer cards, Easter eggs, and responsive design | React, NES.css, SCSS | [Live](https://krshsl.github.io) • [Code](https://github.com/krshsl) |
+| **Pokédex Portfolio** | Personal portfolio styled as a Pokédex with trainer cards, Easter eggs, and responsive design | React, NES.css, SCSS | [Live](https://krshsl.github.io) • [Code](https://github.com/krshsl/krshsl.github.io/) |
 | **Linux Kernel Projects** | Built cooperative scheduler with voluntary yield/sleep and optimized page fault handling for contiguous memory access | C, Linux Kernel, OS | [Code](https://github.com/krshsl/cs519-sp25) |
 | **SQL-to-Text Generator** | Fine-tuned LLaMA model to convert SQL queries to natural language with accuracy evaluation | Python, LLaMA, Fireworks AI | [Code](https://github.com/krshsl/sql_to_text) |
 | **Traffic Incident Prediction** | LSTM-based prediction system using climate APIs and temporal features to generate hourly predictions in 5km hexagonal regions | Python, TensorFlow, LSTM, APIs | [Code](https://github.com/krshsl/incident_prediction) |
